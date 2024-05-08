@@ -10,8 +10,8 @@
 #include "esp_http_server.h"
 
 #define HTTP_ENDPOINT "http://172.20.10.5:4000/endpoint"
-#define WIFI_SSID "Raja.iphone"
-#define WIFI_PASSWORD "aaa1234567"
+#define WIFI_SSID "..........."
+#define WIFI_PASSWORD ".........."
 #define SERVER_PORT 80
 #define RELAY_PIN 4
 #define buzzerPin 2
